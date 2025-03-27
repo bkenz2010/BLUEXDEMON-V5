@@ -1,12 +1,12 @@
-const pairNumber = "447893927239";
+const pairNumber = "2347076656544";
 
-const accNumber = ""
+const accNumber = "7076656544"
 
-const name = ""
+const name = "ISAAC INNOSENT"
 
-const bankName = ""
+const bankName = "PALMPAY"
 
 const any = "𓃠"
 
-const emoji = '☘️'
+const emoji = '🌹'
 module.exports = { pairNumber, accNumber, bankName, name, any, emoji };
